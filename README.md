@@ -7,7 +7,9 @@ I created this repo to make myself accountable and practice coding in Python eve
 - LeetCode
 - Practice Python
 - BeeCrowd
+
 and many other...
+
 Some of them may come from courses and bootcamps I'm enrolled as well.
 
 ## Wanna try this for yourself?
